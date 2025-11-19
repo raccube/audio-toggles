@@ -1,0 +1,9 @@
+{
+  "key.category.raccube.audio_toggles.name": "Audio Toggles",
+  "raccube.audio_toggles.toggle_sound": "Toggle All Sound",
+  "raccube.audio_toggles.toggle_music": "Toggle Music",
+  "raccube.audio_toggles.music_muted": "Music muted",
+  "raccube.audio_toggles.music_unmuted": "Music unmuted",
+  "raccube.audio_toggles.sound_muted": "All sound muted",
+  "raccube.audio_toggles.sound_unmuted": "Sound unmuted"
+}

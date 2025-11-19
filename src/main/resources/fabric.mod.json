@@ -15,16 +15,14 @@
 	"icon": "assets/audio-toggles/icon.png",
 	"environment": "*",
 	"entrypoints": {
-		"main": [
+		"client": [
 			{
-				"value": "net.raccube.mc.audio_toggles.Audiotoggles",
+				"value": "net.raccube.mc.audio_toggles.AudioToggles",
 				"adapter": "kotlin"
 			}
 		]
 	},
-	"mixins": [
-		"audio-toggles.mixins.json"
-	],
+	"mixins": [],
 	"depends": {
 		"fabricloader": ">=0.17.3",
 		"minecraft": "~1.21.10",
@@ -32,7 +30,5 @@
 		"fabric-api": "*",
 		"fabric-language-kotlin": "*"
 	},
-	"suggests": {
-		"another-mod": "*"
-	}
+	"suggests": {}
 }
