@@ -35,7 +35,7 @@ object AudioToggles : ClientModInitializer {
 
         val category = KeyBinding.Category.create(Identifier.of("raccube.audio_toggles", "name"))
         this.muteSoundMapping = KeyBinding(
-            "raccube.audio_toggles.mute_sound",  // The translation key of the keybinding's name
+            "key.raccube.audio_toggles.toggle_sound",  // The translation key of the keybinding's name
             InputUtil.Type.KEYSYM,  // The type of the keybinding, KEYSYM for keyboard, MOUSE for mouse.
             GLFW.GLFW_KEY_N,  // The keycode of the key
             category // The category of the key - you'll need to add a translation for this!
@@ -43,7 +43,7 @@ object AudioToggles : ClientModInitializer {
         KeyBindingHelper.registerKeyBinding(this.muteSoundMapping)
 
         this.muteMusicMapping = KeyBinding(
-            "raccube.audio_toggles.mute_music",  // The translation key of the keybinding's name
+            "key.raccube.audio_toggles.toggle_music",  // The translation key of the keybinding's name
             InputUtil.Type.KEYSYM,  // The type of the keybinding, KEYSYM for keyboard, MOUSE for mouse.
             GLFW.GLFW_KEY_M,  // The keycode of the key
             category // The category of the key - you'll need to add a translation for this!

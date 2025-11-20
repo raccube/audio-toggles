@@ -1,7 +1,7 @@
 {
   "key.category.raccube.audio_toggles.name": "Audio Toggles",
-  "raccube.audio_toggles.toggle_sound": "W(y)łącz dźwięki",
-  "raccube.audio_toggles.toggle_music": "W(y)łącz muzykę",
+  "key.raccube.audio_toggles.toggle_sound": "W(y)łącz dźwięki",
+  "key.raccube.audio_toggles.toggle_music": "W(y)łącz muzykę",
   "raccube.audio_toggles.music_muted": "Muzyka wyłączona",
   "raccube.audio_toggles.music_unmuted": "Muzyka włączona",
   "raccube.audio_toggles.sound_muted": "Wszystkie dźwięki włączone",

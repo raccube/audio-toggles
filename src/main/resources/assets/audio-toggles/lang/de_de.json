@@ -1,7 +1,7 @@
 {
   "key.category.raccube.audio_toggles.name": "Audio Toggles",
-  "raccube.audio_toggles.toggle_sound": "Töne (un-)stummschalten",
-  "raccube.audio_toggles.toggle_music": "Musik (un-)stummschalten",
+  "key.raccube.audio_toggles.toggle_sound": "Töne (un-)stummschalten",
+  "key.raccube.audio_toggles.toggle_music": "Musik (un-)stummschalten",
   "raccube.audio_toggles.music_muted": "Musik stummgeschaltet",
   "raccube.audio_toggles.music_unmuted": "Musik nicht mehr stummgeschaltet",
   "raccube.audio_toggles.sound_muted": "Alle Töne stummgeschaltet",
